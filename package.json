@@ -1,0 +1,16 @@
+{
+  "name": "tugas-backend-js-23690101008",
+  "version": "1.0.0",
+  "description": "Website portofolio sederhana yang menampilkan profil pribadi, keahlian, dan proyek.  \r Proyek ini dibuat sebagai bagian dari tugas kuliah sekaligus latihan membuat versi awal portofolio digital saya.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "dependencies": {
+    "express": "^5.2.1"
+  }
+}
